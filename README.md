@@ -16,4 +16,4 @@ Webpack based boilerplate for producing libraries (Input: ES6, Output: universal
 * [ ] clean package.json dependencies
 * [ ] make test build have separate node_modules.js, like dev build
 * [ ] generated libs should have jsdoc comments in it
-* [ ] create solution for typescript aligned with js with typescript definitions (separate fork or extend this one, probably separate fork better)
+* [x] create solution for typescript aligned with js with typescript definitions. See here: [https://github.com/pmunin/webpack-typescript-library-starter](https://github.com/pmunin/webpack-typescript-library-starter)
